@@ -10,9 +10,10 @@ Directories
 
 - ``first-try`` : first ambilight image processing script. Working but quite slow
 - ``threaded`` : complete rewriting of the first try using threaded processing. Tests are to be written.
-
+- ``python-artnet`` : Python ArtNet toolkit to link OLA in ArtNet mode -forked from philchristensen/python-artnet-https://github.com/philchristensen/python-artnet
 
 Committers
 ==========
 
 - @matael
+- @jblb
